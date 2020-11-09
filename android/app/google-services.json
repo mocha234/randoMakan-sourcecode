@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007739489078",
+    "firebase_url": "https://random-eat---malaysia-ed-2b94c.firebaseio.com",
+    "project_id": "random-eat---malaysia-ed-2b94c",
+    "storage_bucket": "random-eat---malaysia-ed-2b94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007739489078:android:d6d49a039326aeaa5f8197",
+        "android_client_info": {
+          "package_name": "com.quanfiniti.randomeatmalaysiaedition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007739489078-iga4moa1dgar3shudlv4l7lvv43odian.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnIm76IeYwf_yN5WgXbWI3twpoLQnpHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007739489078-iga4moa1dgar3shudlv4l7lvv43odian.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

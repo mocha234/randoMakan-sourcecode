@@ -9,6 +9,7 @@ This is my first flutter app, the code might give your heart break, don't read i
 
 and.. Yes, I did everything from coding to illustration and animation and copywriting! 
 
+## Screenshots
 Some screenshots(in case you don't wanna download or... iOS user)
 
 <img src="https://github.com/mocha234/randoMakan-sourcecode/blob/main/Screenshots/photo6269317089017834253.jpg" width="300">

@@ -6,7 +6,7 @@ Download @ https://play.google.com/store/apps/details?id=com.quanfiniti.randomea
 Currently not available for iOS
 
 # Erm...
-..this is my first flutter app, the code might give your heart break, don't read it if you're a pro developer haha.
+..this is my first flutter app, the code might give your heart attack, don't read it if you're a pro developer haha.
 
 and.. Yes, I did everything from coding to illustration and animation and copywriting! 
 

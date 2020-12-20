@@ -21,4 +21,6 @@ Some screenshots(in case you don't wanna download or... iOS user)
 
 <img src="https://github.com/mocha234/randoMakan-sourcecode/blob/main/Screenshots/photo6278277271265585504.jpg" width="300">
 
+<img src="https://github.com/mocha234/randoMakan-sourcecode/blob/main/Screenshots/photo6269317089017834255.jpg" width="300">
+
 

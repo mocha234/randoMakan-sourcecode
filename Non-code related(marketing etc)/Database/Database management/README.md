@@ -1,0 +1,3 @@
+this folder contains all the business function, things I planned as if I gonna turn this into a billion dollar app, illustrations, aimations etc...
+
+If you're reading this...thanks!
